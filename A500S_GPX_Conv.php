@@ -4,7 +4,7 @@ $time_correct = 60*60*(8+6);				// Поправка на часовой пояс
 $folder_done = "./";					// Папка для готовых gpx файлов, "./" - текущая дериктория
 
 //Значения по умолчанию
-$header_autor = 'Autor';
+$header_autor = 'Author';
 $header_time = '2011-09-22T18:56:51Z';
 $header_name = 'Name';
 $header_desc = 'Description';
